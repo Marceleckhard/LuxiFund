@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+client.optinvests.com	TRUE	/	FALSE	1999999999	.AspNetCore.Antiforgery.AKAetW7tglY	CfDJ8BmM0HEHZItBjI-eMUtT0ArcyZmPD2gaakAELneffmiSzSf_p9Br1wHR1NGvLPuZyK25_6VXm73m8TpxNS-CwBoOTwDSYut23ymLzqo2FKmBxeljvR_j7astbqXV15VZ8CXF0LHzvAvhA1kjaTcZ0Uw
+client.optinvests.com	TRUE	/	FALSE	1999999999	samesite	strict
+
